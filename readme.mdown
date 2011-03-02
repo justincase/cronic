@@ -105,5 +105,5 @@ An example:
 Cronic isn't the only cure for cron. Cronic's main advantage it is small, simple and a shell script. There are several C-based
 cron wrapper programs with many additional capabilities and options:
 
-[Shush](http://web.taranis.org/shush/): a C-based cron wrapper, with multiple report formats, syslogging, etc.
+[Shush](http://web.taranis.org/shush/): a C-based cron wrapper, with multiple report formats, syslogging, etc.  
 [Cronwrap](http://www.uow.edu.au/~sah/cronwrap.html): a C-based cron wrapper, with time-out control, logging, etc.
